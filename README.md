@@ -12,4 +12,10 @@ Usage:
 
 Within the (Markdown) input file you indicate where you want to insert a table of content by inserting a special tag "`INSERT-TOC-HERE`".
 
+Example:
 
+    php mdtoc.php mdtoc-example.md mdtoc-example-result.md
+
+See the example of input file: [mdtoc-example.md](https://github.com/dbeurive/markdown-tools/blob/master/mdtoc-example.md)
+
+See the example of output file: [mdtoc-example-result.md](https://github.com/dbeurive/markdown-tools/blob/master/mdtoc-example-result.md)
